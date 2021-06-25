@@ -9,3 +9,11 @@ function F1 (){
 function doneF1 (){
     console.log('doneF1');
 }
+
+function doneF2 (){
+    console.log('doneF2');
+}
+
+function doneAll (){
+    console.log('doneAll');
+}
